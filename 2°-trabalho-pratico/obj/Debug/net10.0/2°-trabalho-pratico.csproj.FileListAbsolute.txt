@@ -1,0 +1,14 @@
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\bin\Debug\net10.0\2°-trabalho-pratico.exe
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\bin\Debug\net10.0\2°-trabalho-pratico.deps.json
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\bin\Debug\net10.0\2°-trabalho-pratico.runtimeconfig.json
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\bin\Debug\net10.0\2°-trabalho-pratico.dll
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\bin\Debug\net10.0\2°-trabalho-pratico.pdb
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\2°-trabalho-pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\2°-trabalho-pratico.AssemblyInfoInputs.cache
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\2°-trabalho-pratico.AssemblyInfo.cs
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\2°-trabalho-pratico.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\2°-trabalho-pratico.dll
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\refint\2°-trabalho-pratico.dll
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\2°-trabalho-pratico.pdb
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\2°-trabalho-pratico.genruntimeconfig.cache
+C:\Users\ghass\Trabalhos práticos ATP\2°-trabalho-pratico\obj\Debug\net10.0\ref\2°-trabalho-pratico.dll
