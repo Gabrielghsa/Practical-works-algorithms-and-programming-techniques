@@ -1,0 +1,15 @@
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\bin\Debug\net10.0\3°-trabalho-prático.exe
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\bin\Debug\net10.0\3°-trabalho-prático.deps.json
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\bin\Debug\net10.0\3°-trabalho-prático.runtimeconfig.json
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\bin\Debug\net10.0\3°-trabalho-prático.dll
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\bin\Debug\net10.0\3°-trabalho-prático.pdb
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.AssemblyInfoInputs.cache
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.AssemblyInfo.cs
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.sourcelink.json
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.dll
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\refint\3°-trabalho-prático.dll
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.pdb
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\3°-trabalho-prático.genruntimeconfig.cache
+C:\Users\ghass\Practical-works-algorithms-and-programming-techniques\3°-trabalho-prático\3°-trabalho-prático\obj\Debug\net10.0\ref\3°-trabalho-prático.dll
