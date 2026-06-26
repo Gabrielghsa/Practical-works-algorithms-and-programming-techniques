@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\Trabalhos práticos ATP\\1°-trabalho prático\\1°-trabalho prático.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\1°-trabalho-prático\\1°-trabalho prático.csproj",
       "projectName": "1°-trabalho prático",
-      "projectPath": "C:\\Users\\ghass\\Trabalhos práticos ATP\\1°-trabalho prático\\1°-trabalho prático.csproj",
+      "projectPath": "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\1°-trabalho-prático\\1°-trabalho prático.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\Trabalhos práticos ATP\\1°-trabalho prático\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\1°-trabalho-prático\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",
