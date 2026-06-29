@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\Trabalhos práticos ATP\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj": {}
+    "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\Trabalhos práticos ATP\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj": {
+    "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\Trabalhos práticos ATP\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj",
         "projectName": "2°-trabalho-pratico",
-        "projectPath": "C:\\Users\\ghass\\Trabalhos práticos ATP\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj",
+        "projectPath": "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\2°-trabalho-pratico\\2°-trabalho-pratico.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\Trabalhos práticos ATP\\2°-trabalho-pratico\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\Practical-works-algorithms-and-programming-techniques\\2°-trabalho-pratico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

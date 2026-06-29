@@ -1,0 +1,8 @@
+
+Resultado da eleição:
+Candidato Macrebison	 (n° 15): 1 voto(s)
+Candidato Macrebs  (n° 25): 3 voto(s)
+Candidato Macrebinho  (n° 35): 3 voto(s)
+Candidato Macrebinha  (n° 45): 2 voto(s)
+Votos brancos: 1
+Votos nulos: 0
